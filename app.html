@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<script>
+    import { auth } from "./firebase.js";
+    import { onAuthStateChanged } from "firebase/auth";
+
+    onAuthStateChanged(auth, (user) => {
+        if (!user) {
+            // Redirect to login if not signed in
+            window.location.href = "login.html";
+        }
+    });
+</script>
+
+<!-- ✅ Load Your Firebase & Auth Scripts -->
+<script type="module" src="firebase.js"></script>
+<script type="module" src="auth.js"></script>
