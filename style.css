@@ -185,6 +185,63 @@ body {
     opacity: 0.8;
 }
 
+
+.footer-overlay-inline {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+}
+
+.footer-overlay {
+    font-size: 100px;
+    font-weight: bold;
+    white-space: nowrap;
+    color: white;
+    opacity: 1; /* ✅ KEEP THIS IF YOU WANT FADING */
+}
+.footer-overlay-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 80px;
+    margin-bottom: 40px;
+}
+
+.footer-overlay-logo {
+    height: 140px;
+    margin-right: 20px;
+}
+
+.footer-overlay-text {
+    font-size: 180px;
+    font-weight: bold;
+    color: white;
+    white-space: nowrap;
+    opacity: 0.1;
+}
+
+@media (max-width: 1300px) {
+    .footer-overlay-logo {
+        height: 75px;
+    }
+    
+    .footer-overlay-text {
+        font-size: 100px;
+    }
+}
+
+@media (max-width: 700px) {
+    .footer-overlay-logo {
+        height: auto;
+        width:90%;
+    }
+    
+    .footer-overlay-text {
+        display:none;
+    }
+}
+
 /* Footer Base Styles */
 .footer {
     background-color: #05052E; /* Your dark navy */
@@ -273,24 +330,17 @@ body {
     text-align: center;
     margin-top: 40px;
     padding-top: 40px;
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Added bottom border */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     position: relative;
 }
 
-/* Large Transparent Text */
-.footer-overlay {
-    position: absolute;
-    bottom: -20px; /* Adjusted to align better */
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 150px; /* Slightly larger for better proportion */
-    font-weight: bold;
-    opacity: 0.1;
-    white-space: nowrap;
-    text-align: center;
-    width: 100%;
+.footer-legal {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    padding-top: 20px;
 }
+
+/* Large Transparent Text */
+
 
 /* Terms & Privacy Links */
 .footer-links {
