@@ -1,35 +1,35 @@
 [{
   "title": "General Manager",
   "match": 96,
-  "image": "generalmanager.jpg",
+  "image": "general-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-General+Manager-jobs.html"
 },
 {
   "title": "Operations Manager",
   "match": 87,
-  "image": "operationsmanager.jpg",
+  "image": "operations-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Operations+Manager-jobs.html"
 },
 {
   "title": "Project Manager",
   "match": 95,
-  "image": "projectmanager.jpg",
+  "image": "project-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Project+Manager-jobs.html"
 },
 {
   "title": "Business Dev Manager",
   "match": 82,
-  "image": "businessdevmanager.jpg",
+  "image": "business-dev-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Business+Dev+Manager-jobs.html"
 },
 {
   "title": "Account Manager",
   "match": 94,
-  "image": "accountmanager.jpg",
+  "image": "account-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Account+Manager-jobs.html"
 },
@@ -1212,7 +1212,7 @@
 {
   "title": "M&A Analyst",
   "match": 98,
-  "image": "manda-analyst.jpg",
+  "image": "m&a-analyst.jpg",
   "outlook": 5,
   "link": "https://www.indeed.com/q-M%26A+Analyst-jobs.html"
 },
