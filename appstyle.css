@@ -529,3 +529,8 @@ body {
     color: #777;
   }
   
+  #careerGrid {
+    transform: translateY(+46%);
+  }
+
+  
