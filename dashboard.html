@@ -155,7 +155,7 @@
             return "★".repeat(outlook) + "☆".repeat(5 - outlook);
           }
       
-          fetch("augmented_careers.json")
+          fetch("for-richard/augmented_careers.json")
             .then(response => response.json())
             .then(careers => {
               careers
@@ -163,7 +163,7 @@
                 .slice(0, tiles.length)
                 .forEach((career, index) => {
                   const tile = tiles[index];
-                  tile.querySelector(".career-image").src = career.image;
+                  tile.querySelector(".career-image").src = "for-richard/" + career.image;
                   tile.querySelector(".career-image").alt = career.title;
                   tile.querySelector(".career-title").textContent = career.title;
                   tile.querySelector(".career-link").href = career.link;

@@ -68,7 +68,7 @@
                 return "★".repeat(outlook) + "☆".repeat(5 - outlook);
             }
     
-            fetch("augmented_careers.json")
+            fetch("for-richard/augmented_careers.json")
                 .then(response => response.json())
                 .then(careers => {
                     careers.sort((a, b) => b.match - a.match);
@@ -78,7 +78,7 @@
                         tile.className = "career-tile";
                         tile.innerHTML = `
             <div class="career-top">
-              <img src="${career.image}" alt="${career.title}" class="career-image" />
+              <img src="for-richard/${career.image}" alt="${career.title}" class="career-image" />
               <div class="career-text">
                 <div class="career-title">${career.title}</div>
                 <a href="${career.link}" target="_blank" class="career-link">Learn more</a>
