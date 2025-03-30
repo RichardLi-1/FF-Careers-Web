@@ -1,0 +1,72 @@
+[
+  {
+    "title": "General Manager",
+    "match": 85,
+    "image": "generalmanager.jpg",
+    "futureOutlook": 3,
+    "link": "https://www.indeed.com/q-General-Manager-jobs.html"
+  },
+  {
+    "title": "Operations Manager",
+    "match": 96,
+    "image": "operationsmanager.jpg",
+    "futureOutlook": 5,
+    "link": "https://www.indeed.com/q-Operations-Manager-jobs.html"
+  },
+  {
+    "title": "Project Manager",
+    "match": 79,
+    "image": "projectmanager.jpg",
+    "futureOutlook": 2,
+    "link": "https://www.indeed.com/q-Project-Manager-jobs.html"
+  },
+  {
+    "title": "Business Dev Manager",
+    "match": 71,
+    "image": "businessdevmanager.jpg",
+    "futureOutlook": 2,
+    "link": "https://www.indeed.com/q-Business-Dev-Manager-jobs.html"
+  },
+  {
+    "title": "Account Manager",
+    "match": 91,
+    "image": "accountmanager.jpg",
+    "futureOutlook": 4,
+    "link": "https://www.indeed.com/q-Account-Manager-jobs.html"
+  },
+  {
+    "title": "Risk Manager",
+    "match": 93,
+    "image": "riskmanager.jpg",
+    "futureOutlook": 4,
+    "link": "https://www.indeed.com/q-Risk-Manager-jobs.html"
+  },
+  {
+    "title": "Strategy Consultant",
+    "match": 78,
+    "image": "strategyconsultant.jpg",
+    "futureOutlook": 2,
+    "link": "https://www.indeed.com/q-Strategy-Consultant-jobs.html"
+  },
+  {
+    "title": "Program Manager",
+    "match": 84,
+    "image": "programmanager.jpg",
+    "futureOutlook": 3,
+    "link": "https://www.indeed.com/q-Program-Manager-jobs.html"
+  },
+  {
+    "title": "Product Manager",
+    "match": 92,
+    "image": "productmanager.jpg",
+    "futureOutlook": 4,
+    "link": "https://www.indeed.com/q-Product-Manager-jobs.html"
+  },
+  {
+    "title": "Supply Chain Manager",
+    "match": 75,
+    "image": "supplychainmanager.jpg",
+    "futureOutlook": 2,
+    "link": "https://www.indeed.com/q-Supply-Chain-Manager-jobs.html"
+  }
+]

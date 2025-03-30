@@ -404,3 +404,128 @@ body {
 #close-popup:hover {
     background: #b985e6;
 }
+
+.career-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 120px 20px 40px;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.career-tile {
+  background: white;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.career-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.match-badge {
+  background-color: #27ae60;
+  color: white;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-size: 14px;
+  align-self: flex-start;
+}
+
+.career-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.star-rating {
+  color: #0b0a2b;
+  font-size: 20px;
+}
+
+/* ---------------------------LIBRARY----------------------- */
+.career-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 0px 20px 40px;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.career-tile {
+  background: white;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.career-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.match-badge {
+  background-color: #27ae60;
+  color: white;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-size: 14px;
+  align-self: flex-start;
+}
+
+.career-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.star-rating {
+  color: #0b0a2b;
+  font-size: 20px;
+}
+
+  
+  .career-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  
+  .career-link {
+    color: grey;
+    text-decoration: underline;
+    font-size: 0.9rem;
+  }
+  
+  .career-bottom {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .career-meta .label {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
