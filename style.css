@@ -219,6 +219,7 @@ body {
     color: white;
     white-space: nowrap;
     opacity: 0.1;
+    margin-top:-50px;
 }
 
 @media (max-width: 1300px) {
@@ -431,6 +432,8 @@ body {
     margin: 0 auto;
 }
 
+
+
 .steps-left {
     flex: 1;
     min-width: 300px;
@@ -473,6 +476,7 @@ body {
     max-width: 500px;
     height: auto;
     object-fit: contain;
+    min-height: 500px;
 }
 
 .steps-image {
