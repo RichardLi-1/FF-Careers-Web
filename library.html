@@ -68,7 +68,7 @@
                 return "★".repeat(outlook) + "☆".repeat(5 - outlook);
             }
     
-            fetch("for-richard/augmented_careers.json")
+            fetch("for-richard/reduced_matches.json")
                 .then(response => response.json())
                 .then(careers => {
                     careers.sort((a, b) => b.match - a.match);

@@ -1,0 +1,1388 @@
+[
+  {
+    "title": "General Manager",
+    "match": 80,
+    "image": "general-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-General+Manager-jobs.html"
+  },
+  {
+    "title": "Operations Manager",
+    "match": 77,
+    "image": "operations-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Operations+Manager-jobs.html"
+  },
+  {
+    "title": "Project Manager",
+    "match": 88,
+    "image": "project-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Project+Manager-jobs.html"
+  },
+  {
+    "title": "Business Dev Manager",
+    "match": 72,
+    "image": "business-dev-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Business+Dev+Manager-jobs.html"
+  },
+  {
+    "title": "Account Manager",
+    "match": 84,
+    "image": "account-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Account+Manager-jobs.html"
+  },
+  {
+    "title": "Risk Manager",
+    "match": 83,
+    "image": "risk-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Risk+Manager-jobs.html"
+  },
+  {
+    "title": "Strategy Consultant",
+    "match": 61,
+    "image": "strategy-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Strategy+Consultant-jobs.html"
+  },
+  {
+    "title": "Program Manager",
+    "match": 84,
+    "image": "program-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Program+Manager-jobs.html"
+  },
+  {
+    "title": "Product Manager",
+    "match": 89,
+    "image": "product-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Product+Manager-jobs.html"
+  },
+  {
+    "title": "Supply Chain Manager",
+    "match": 79,
+    "image": "supply-chain-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Supply+Chain+Manager-jobs.html"
+  },
+  {
+    "title": "Logistics Manager",
+    "match": 60,
+    "image": "logistics-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Logistics+Manager-jobs.html"
+  },
+  {
+    "title": "Procurement Manager",
+    "match": 61,
+    "image": "procurement-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Procurement+Manager-jobs.html"
+  },
+  {
+    "title": "Office Manager",
+    "match": 83,
+    "image": "office-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Office+Manager-jobs.html"
+  },
+  {
+    "title": "Training Manager",
+    "match": 89,
+    "image": "training-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Training+Manager-jobs.html"
+  },
+  {
+    "title": "HR Manager",
+    "match": 63,
+    "image": "hr-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-HR+Manager-jobs.html"
+  },
+  {
+    "title": "Sales Manager",
+    "match": 63,
+    "image": "sales-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Sales+Manager-jobs.html"
+  },
+  {
+    "title": "Marketing Manager",
+    "match": 85,
+    "image": "marketing-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Marketing+Manager-jobs.html"
+  },
+  {
+    "title": "Customer Success Manager",
+    "match": 77,
+    "image": "customer-success-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Customer+Success+Manager-jobs.html"
+  },
+  {
+    "title": "Facilities Manager",
+    "match": 75,
+    "image": "facilities-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Facilities+Manager-jobs.html"
+  },
+  {
+    "title": "Talent Manager",
+    "match": 86,
+    "image": "talent-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Talent+Manager-jobs.html"
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "match": 74,
+    "image": "digital-marketing-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Digital+Marketing+Specialist-jobs.html"
+  },
+  {
+    "title": "Social Media Manager",
+    "match": 83,
+    "image": "social-media-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Social+Media+Manager-jobs.html"
+  },
+  {
+    "title": "Content Manager",
+    "match": 61,
+    "image": "content-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Content+Manager-jobs.html"
+  },
+  {
+    "title": "SEO Specialist",
+    "match": 73,
+    "image": "seo-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-SEO+Specialist-jobs.html"
+  },
+  {
+    "title": "PPC Specialist",
+    "match": 72,
+    "image": "ppc-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-PPC+Specialist-jobs.html"
+  },
+  {
+    "title": "Brand Manager",
+    "match": 86,
+    "image": "brand-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Brand+Manager-jobs.html"
+  },
+  {
+    "title": "Ad Exec",
+    "match": 63,
+    "image": "ad-exec.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Ad+Exec-jobs.html"
+  },
+  {
+    "title": "PR Specialist",
+    "match": 67,
+    "image": "pr-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-PR+Specialist-jobs.html"
+  },
+  {
+    "title": "Media Planner",
+    "match": 60,
+    "image": "media-planner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Media+Planner-jobs.html"
+  },
+  {
+    "title": "Marketing Analyst",
+    "match": 60,
+    "image": "marketing-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Marketing+Analyst-jobs.html"
+  },
+  {
+    "title": "Event Planner",
+    "match": 81,
+    "image": "event-planner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Event+Planner-jobs.html"
+  },
+  {
+    "title": "Copywriter",
+    "match": 62,
+    "image": "copywriter.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Copywriter-jobs.html"
+  },
+  {
+    "title": "Creative Director",
+    "match": 85,
+    "image": "creative-director.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Creative+Director-jobs.html"
+  },
+  {
+    "title": "Marketing Coordinator",
+    "match": 88,
+    "image": "marketing-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Marketing+Coordinator-jobs.html"
+  },
+  {
+    "title": "Campaign Manager",
+    "match": 67,
+    "image": "campaign-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Campaign+Manager-jobs.html"
+  },
+  {
+    "title": "Email Marketing Specialist",
+    "match": 85,
+    "image": "email-marketing-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Email+Marketing+Specialist-jobs.html"
+  },
+  {
+    "title": "Affiliate Manager",
+    "match": 66,
+    "image": "affiliate-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Affiliate+Manager-jobs.html"
+  },
+  {
+    "title": "Influencer Specialist",
+    "match": 80,
+    "image": "influencer-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Influencer+Specialist-jobs.html"
+  },
+  {
+    "title": "Market Analyst",
+    "match": 84,
+    "image": "market-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Market+Analyst-jobs.html"
+  },
+  {
+    "title": "Communications Manager",
+    "match": 78,
+    "image": "communications-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Communications+Manager-jobs.html"
+  },
+  {
+    "title": "Financial Analyst",
+    "match": 87,
+    "image": "financial-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Financial+Analyst-jobs.html"
+  },
+  {
+    "title": "Accountant",
+    "match": 64,
+    "image": "accountant.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Accountant-jobs.html"
+  },
+  {
+    "title": "Tax Specialist",
+    "match": 58,
+    "image": "tax-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Tax+Specialist-jobs.html"
+  },
+  {
+    "title": "Budget Analyst",
+    "match": 73,
+    "image": "budget-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Budget+Analyst-jobs.html"
+  },
+  {
+    "title": "Controller",
+    "match": 61,
+    "image": "controller.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Controller-jobs.html"
+  },
+  {
+    "title": "Treasury Manager",
+    "match": 74,
+    "image": "treasury-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Treasury+Manager-jobs.html"
+  },
+  {
+    "title": "Auditor",
+    "match": 86,
+    "image": "auditor.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Auditor-jobs.html"
+  },
+  {
+    "title": "Investment Analyst",
+    "match": 61,
+    "image": "investment-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Investment+Analyst-jobs.html"
+  },
+  {
+    "title": "Stockbroker",
+    "match": 70,
+    "image": "stockbroker.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Stockbroker-jobs.html"
+  },
+  {
+    "title": "Risk Analyst",
+    "match": 62,
+    "image": "risk-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Risk+Analyst-jobs.html"
+  },
+  {
+    "title": "Cost Accountant",
+    "match": 68,
+    "image": "cost-accountant.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Cost+Accountant-jobs.html"
+  },
+  {
+    "title": "Credit Analyst",
+    "match": 86,
+    "image": "credit-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Credit+Analyst-jobs.html"
+  },
+  {
+    "title": "Financial Advisor",
+    "match": 68,
+    "image": "financial-advisor.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Financial+Advisor-jobs.html"
+  },
+  {
+    "title": "Actuary",
+    "match": 70,
+    "image": "actuary.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Actuary-jobs.html"
+  },
+  {
+    "title": "Underwriter",
+    "match": 69,
+    "image": "underwriter.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Underwriter-jobs.html"
+  },
+  {
+    "title": "Payroll Specialist",
+    "match": 66,
+    "image": "payroll-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Payroll+Specialist-jobs.html"
+  },
+  {
+    "title": "AR Specialist",
+    "match": 78,
+    "image": "ar-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-AR+Specialist-jobs.html"
+  },
+  {
+    "title": "AP Specialist",
+    "match": 77,
+    "image": "ap-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-AP+Specialist-jobs.html"
+  },
+  {
+    "title": "Internal Auditor",
+    "match": 83,
+    "image": "internal-auditor.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Internal+Auditor-jobs.html"
+  },
+  {
+    "title": "Hedge Fund Manager",
+    "match": 77,
+    "image": "hedge-fund-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Hedge+Fund+Manager-jobs.html"
+  },
+  {
+    "title": "Business Owner",
+    "match": 69,
+    "image": "business-owner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Business+Owner-jobs.html"
+  },
+  {
+    "title": "Franchisee",
+    "match": 84,
+    "image": "franchisee.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Franchisee-jobs.html"
+  },
+  {
+    "title": "Venture Analyst",
+    "match": 79,
+    "image": "venture-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Venture+Analyst-jobs.html"
+  },
+  {
+    "title": "Startup Consultant",
+    "match": 69,
+    "image": "startup-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Startup+Consultant-jobs.html"
+  },
+  {
+    "title": "Innovation Strategist",
+    "match": 80,
+    "image": "innovation-strategist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Innovation+Strategist-jobs.html"
+  },
+  {
+    "title": "Product Owner",
+    "match": 61,
+    "image": "product-owner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Product+Owner-jobs.html"
+  },
+  {
+    "title": "EIR",
+    "match": 75,
+    "image": "eir.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-EIR-jobs.html"
+  },
+  {
+    "title": "Tech Founder",
+    "match": 80,
+    "image": "tech-founder.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Tech+Founder-jobs.html"
+  },
+  {
+    "title": "Social Entrepreneur",
+    "match": 64,
+    "image": "social-entrepreneur.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Social+Entrepreneur-jobs.html"
+  },
+  {
+    "title": "Consultant",
+    "match": 85,
+    "image": "consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Consultant-jobs.html"
+  },
+  {
+    "title": "Business Advisor",
+    "match": 83,
+    "image": "business-advisor.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Business+Advisor-jobs.html"
+  },
+  {
+    "title": "Angel Investor",
+    "match": 77,
+    "image": "angel-investor.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Angel+Investor-jobs.html"
+  },
+  {
+    "title": "Incubator Manager",
+    "match": 79,
+    "image": "incubator-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Incubator+Manager-jobs.html"
+  },
+  {
+    "title": "Corporate Innovator",
+    "match": 65,
+    "image": "corporate-innovator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Corporate+Innovator-jobs.html"
+  },
+  {
+    "title": "Design Facilitator",
+    "match": 61,
+    "image": "design-facilitator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Design+Facilitator-jobs.html"
+  },
+  {
+    "title": "Crowdfunding Specialist",
+    "match": 66,
+    "image": "crowdfunding-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Crowdfunding+Specialist-jobs.html"
+  },
+  {
+    "title": "Accelerator Manager",
+    "match": 76,
+    "image": "accelerator-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Accelerator+Manager-jobs.html"
+  },
+  {
+    "title": "Ops Specialist",
+    "match": 64,
+    "image": "ops-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Ops+Specialist-jobs.html"
+  },
+  {
+    "title": "Entrepreneurial Coach",
+    "match": 85,
+    "image": "entrepreneurial-coach.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Entrepreneurial+Coach-jobs.html"
+  },
+  {
+    "title": "Supply Analyst",
+    "match": 61,
+    "image": "supply-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Supply+Analyst-jobs.html"
+  },
+  {
+    "title": "Ops Analyst",
+    "match": 76,
+    "image": "ops-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Ops+Analyst-jobs.html"
+  },
+  {
+    "title": "QA Analyst",
+    "match": 83,
+    "image": "qa-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-QA+Analyst-jobs.html"
+  },
+  {
+    "title": "Warehouse Manager",
+    "match": 81,
+    "image": "warehouse-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Warehouse+Manager-jobs.html"
+  },
+  {
+    "title": "Fleet Manager",
+    "match": 84,
+    "image": "fleet-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Fleet+Manager-jobs.html"
+  },
+  {
+    "title": "Inventory Specialist",
+    "match": 81,
+    "image": "inventory-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Inventory+Specialist-jobs.html"
+  },
+  {
+    "title": "Transportation Coordinator",
+    "match": 71,
+    "image": "transportation-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Transportation+Coordinator-jobs.html"
+  },
+  {
+    "title": "Ops Coordinator",
+    "match": 68,
+    "image": "ops-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Ops+Coordinator-jobs.html"
+  },
+  {
+    "title": "Mfg Manager",
+    "match": 86,
+    "image": "mfg-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Mfg+Manager-jobs.html"
+  },
+  {
+    "title": "Planner",
+    "match": 74,
+    "image": "planner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Planner-jobs.html"
+  },
+  {
+    "title": "Distribution Manager",
+    "match": 80,
+    "image": "distribution-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Distribution+Manager-jobs.html"
+  },
+  {
+    "title": "Packaging Engineer",
+    "match": 66,
+    "image": "packaging-engineer.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Packaging+Engineer-jobs.html"
+  },
+  {
+    "title": "Logistics Coordinator",
+    "match": 89,
+    "image": "logistics-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Logistics+Coordinator-jobs.html"
+  },
+  {
+    "title": "Maintenance Manager",
+    "match": 84,
+    "image": "maintenance-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Maintenance+Manager-jobs.html"
+  },
+  {
+    "title": "Vendor Manager",
+    "match": 80,
+    "image": "vendor-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Vendor+Manager-jobs.html"
+  },
+  {
+    "title": "Industrial Engineer",
+    "match": 81,
+    "image": "industrialengineer.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Industrial+Engineer-jobs.html"
+  },
+  {
+    "title": "Service Ops Manager",
+    "match": 60,
+    "image": "service-ops-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Service+Ops+Manager-jobs.html"
+  },
+  {
+    "title": "CIP Specialist",
+    "match": 74,
+    "image": "cip-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-CIP+Specialist-jobs.html"
+  },
+  {
+    "title": "EHS Manager",
+    "match": 65,
+    "image": "ehs-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-EHS+Manager-jobs.html"
+  },
+  {
+    "title": "Demand Planner",
+    "match": 81,
+    "image": "demand-planner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Demand+Planner-jobs.html"
+  },
+  {
+    "title": "BI Analyst",
+    "match": 84,
+    "image": "bi-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-BI+Analyst-jobs.html"
+  },
+  {
+    "title": "Data Analyst",
+    "match": 50,
+    "image": "data-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Data+Analyst-jobs.html"
+  },
+  {
+    "title": "Data Scientist",
+    "match": 50,
+    "image": "data-scientist.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Data+Scientist-jobs.html"
+  },
+  {
+    "title": "Systems Analyst",
+    "match": 64,
+    "image": "systems-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Systems+Analyst-jobs.html"
+  },
+  {
+    "title": "IT Project Manager",
+    "match": 50,
+    "image": "it-project-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-IT+Project+Manager-jobs.html"
+  },
+  {
+    "title": "ERP Consultant",
+    "match": 69,
+    "image": "erp-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-ERP+Consultant-jobs.html"
+  },
+  {
+    "title": "Biz Tech Consultant",
+    "match": 66,
+    "image": "biz-tech-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Biz+Tech+Consultant-jobs.html"
+  },
+  {
+    "title": "Cybersecurity Specialist",
+    "match": 75,
+    "image": "cybersecurity-specialist.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Cybersecurity+Specialist-jobs.html"
+  },
+  {
+    "title": "E-commerce Manager",
+    "match": 64,
+    "image": "e-commerce-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-E-commerce+Manager-jobs.html"
+  },
+  {
+    "title": "Tech Product Manager",
+    "match": 64,
+    "image": "tech-product-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Tech+Product+Manager-jobs.html"
+  },
+  {
+    "title": "CRM Specialist",
+    "match": 85,
+    "image": "crm-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-CRM+Specialist-jobs.html"
+  },
+  {
+    "title": "DB Admin",
+    "match": 80,
+    "image": "db-admin.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-DB+Admin-jobs.html"
+  },
+  {
+    "title": "Cloud Specialist",
+    "match": 81,
+    "image": "cloud-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Cloud+Specialist-jobs.html"
+  },
+  {
+    "title": "IT Analyst",
+    "match": 78,
+    "image": "it-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-IT+Analyst-jobs.html"
+  },
+  {
+    "title": "UX Designer",
+    "match": 63,
+    "image": "ux-designer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-UX+Designer-jobs.html"
+  },
+  {
+    "title": "Digital Consultant",
+    "match": 66,
+    "image": "digital-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Digital+Consultant-jobs.html"
+  },
+  {
+    "title": "Software PM",
+    "match": 86,
+    "image": "software-pm.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Software+PM-jobs.html"
+  },
+  {
+    "title": "IT Ops Manager",
+    "match": 75,
+    "image": "it-ops-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-IT+Ops+Manager-jobs.html"
+  },
+  {
+    "title": "Automation Specialist",
+    "match": 61,
+    "image": "automation-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Automation+Specialist-jobs.html"
+  },
+  {
+    "title": "Tech Strategist",
+    "match": 66,
+    "image": "tech-strategist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Tech+Strategist-jobs.html"
+  },
+  {
+    "title": "HR Specialist",
+    "match": 68,
+    "image": "hr-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-HR+Specialist-jobs.html"
+  },
+  {
+    "title": "Recruiter",
+    "match": 86,
+    "image": "recruiter.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Recruiter-jobs.html"
+  },
+  {
+    "title": "HR Partner",
+    "match": 63,
+    "image": "hr-partner.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-HR+Partner-jobs.html"
+  },
+  {
+    "title": "Employee Relations Specialist",
+    "match": 79,
+    "image": "employee-relations-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Employee+Relations+Specialist-jobs.html"
+  },
+  {
+    "title": "Comp Analyst",
+    "match": 70,
+    "image": "comp-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Comp+Analyst-jobs.html"
+  },
+  {
+    "title": "Benefits Coordinator",
+    "match": 76,
+    "image": "benefits-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Benefits+Coordinator-jobs.html"
+  },
+  {
+    "title": "D&I Specialist",
+    "match": 79,
+    "image": "dandi-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-D%26I+Specialist-jobs.html"
+  },
+  {
+    "title": "L&D Specialist",
+    "match": 65,
+    "image": "landd-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-L%26D+Specialist-jobs.html"
+  },
+  {
+    "title": "Org Dev Consultant",
+    "match": 73,
+    "image": "org-dev-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Org+Dev+Consultant-jobs.html"
+  },
+  {
+    "title": "Career Coach",
+    "match": 67,
+    "image": "career-coach.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Career+Coach-jobs.html"
+  },
+  {
+    "title": "Onboarding Specialist",
+    "match": 61,
+    "image": "onboarding-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Onboarding+Specialist-jobs.html"
+  },
+  {
+    "title": "Engagement Specialist",
+    "match": 76,
+    "image": "engagement-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Engagement+Specialist-jobs.html"
+  },
+  {
+    "title": "Workforce Analyst",
+    "match": 79,
+    "image": "workforce-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Workforce+Analyst-jobs.html"
+  },
+  {
+    "title": "HR Compliance Officer",
+    "match": 72,
+    "image": "hr-compliance-officer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-HR+Compliance+Officer-jobs.html"
+  },
+  {
+    "title": "Trainer",
+    "match": 74,
+    "image": "trainer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Trainer-jobs.html"
+  },
+  {
+    "title": "I/O Psychologist",
+    "match": 78,
+    "image": "i-o-psychologist.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-I%2FO+Psychologist-jobs.html"
+  },
+  {
+    "title": "HR Ops Specialist",
+    "match": 50,
+    "image": "hr-ops-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-HR+Ops+Specialist-jobs.html"
+  },
+  {
+    "title": "Succession Specialist",
+    "match": 66,
+    "image": "succession-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Succession+Specialist-jobs.html"
+  },
+  {
+    "title": "HRIS Analyst",
+    "match": 64,
+    "image": "hris-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-HRIS+Analyst-jobs.html"
+  },
+  {
+    "title": "Labour Relations Manager",
+    "match": 79,
+    "image": "labour-relations-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Labour+Relations+Manager-jobs.html"
+  },
+  {
+    "title": "Sales Rep",
+    "match": 60,
+    "image": "sales-rep.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Sales+Rep-jobs.html"
+  },
+  {
+    "title": "Biz Consultant",
+    "match": 84,
+    "image": "biz-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Biz+Consultant-jobs.html"
+  },
+  {
+    "title": "Client Success Specialist",
+    "match": 84,
+    "image": "client-success-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Client+Success+Specialist-jobs.html"
+  },
+  {
+    "title": "Key Account Manager",
+    "match": 76,
+    "image": "key-account-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Key+Account+Manager-jobs.html"
+  },
+  {
+    "title": "Regional Sales Manager",
+    "match": 86,
+    "image": "regional-sales-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Regional+Sales+Manager-jobs.html"
+  },
+  {
+    "title": "Inside Sales Rep",
+    "match": 79,
+    "image": "inside-sales-rep.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Inside+Sales+Rep-jobs.html"
+  },
+  {
+    "title": "Outside Sales Rep",
+    "match": 65,
+    "image": "outside-sales-rep.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Outside+Sales+Rep-jobs.html"
+  },
+  {
+    "title": "Sales Trainer",
+    "match": 67,
+    "image": "sales-trainer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Sales+Trainer-jobs.html"
+  },
+  {
+    "title": "Sales Ops Specialist",
+    "match": 78,
+    "image": "sales-ops-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Sales+Ops+Specialist-jobs.html"
+  },
+  {
+    "title": "Customer Support Specialist",
+    "match": 80,
+    "image": "customer-support-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Customer+Support+Specialist-jobs.html"
+  },
+  {
+    "title": "Sales Enablement Manager",
+    "match": 65,
+    "image": "sales-enablement-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Sales+Enablement+Manager-jobs.html"
+  },
+  {
+    "title": "Retail Sales Manager",
+    "match": 84,
+    "image": "retail-sales-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Retail+Sales+Manager-jobs.html"
+  },
+  {
+    "title": "Lead Generation Specialist",
+    "match": 70,
+    "image": "lead-generation-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Lead+Generation+Specialist-jobs.html"
+  },
+  {
+    "title": "Field Sales Manager",
+    "match": 72,
+    "image": "field-sales-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Field+Sales+Manager-jobs.html"
+  },
+  {
+    "title": "B2B Specialist",
+    "match": 83,
+    "image": "b2b-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-B2B+Specialist-jobs.html"
+  },
+  {
+    "title": "Enterprise Exec",
+    "match": 73,
+    "image": "enterprise-exec.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Enterprise+Exec-jobs.html"
+  },
+  {
+    "title": "Channel Manager",
+    "match": 71,
+    "image": "channel-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Channel+Manager-jobs.html"
+  },
+  {
+    "title": "Relationship Manager",
+    "match": 85,
+    "image": "relationship-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Relationship+Manager-jobs.html"
+  },
+  {
+    "title": "Contract Negotiator",
+    "match": 78,
+    "image": "contract-negotiator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Contract+Negotiator-jobs.html"
+  },
+  {
+    "title": "Compliance Officer",
+    "match": 75,
+    "image": "compliance-officer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Compliance+Officer-jobs.html"
+  },
+  {
+    "title": "Corporate Lawyer",
+    "match": 65,
+    "image": "corporate-lawyer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Corporate+Lawyer-jobs.html"
+  },
+  {
+    "title": "Legal Assistant",
+    "match": 73,
+    "image": "legal-assistant.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Legal+Assistant-jobs.html"
+  },
+  {
+    "title": "Reg Affairs Specialist",
+    "match": 71,
+    "image": "reg-affairs-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Reg+Affairs+Specialist-jobs.html"
+  },
+  {
+    "title": "Contract Manager",
+    "match": 77,
+    "image": "contract-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Contract+Manager-jobs.html"
+  },
+  {
+    "title": "IP Manager",
+    "match": 75,
+    "image": "ip-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-IP+Manager-jobs.html"
+  },
+  {
+    "title": "Paralegal",
+    "match": 85,
+    "image": "paralegal.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Paralegal-jobs.html"
+  },
+  {
+    "title": "Legal Ops Manager",
+    "match": 69,
+    "image": "legal-ops-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Legal+Ops+Manager-jobs.html"
+  },
+  {
+    "title": "Risk & Compliance Analyst",
+    "match": 72,
+    "image": "risk-and-compliance-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Risk+%26+Compliance+Analyst-jobs.html"
+  },
+  {
+    "title": "Licensing Specialist",
+    "match": 63,
+    "image": "licensing-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Licensing+Specialist-jobs.html"
+  },
+  {
+    "title": "Governance Specialist",
+    "match": 76,
+    "image": "governance-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Governance+Specialist-jobs.html"
+  },
+  {
+    "title": "Labour Law Consultant",
+    "match": 78,
+    "image": "labour-law-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Labour+Law+Consultant-jobs.html"
+  },
+  {
+    "title": "Policy Analyst",
+    "match": 65,
+    "image": "policy-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Policy+Analyst-jobs.html"
+  },
+  {
+    "title": "Data Privacy Officer",
+    "match": 89,
+    "image": "data-privacy-officer.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Data+Privacy+Officer-jobs.html"
+  },
+  {
+    "title": "Ethics Officer",
+    "match": 70,
+    "image": "ethics-officer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Ethics+Officer-jobs.html"
+  },
+  {
+    "title": "M&A Analyst",
+    "match": 82,
+    "image": "m&a-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-M%26A+Analyst-jobs.html"
+  },
+  {
+    "title": "Legal Consultant",
+    "match": 62,
+    "image": "legal-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Legal+Consultant-jobs.html"
+  },
+  {
+    "title": "AML Analyst",
+    "match": 78,
+    "image": "aml-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-AML+Analyst-jobs.html"
+  },
+  {
+    "title": "Fraud Investigator",
+    "match": 75,
+    "image": "fraud-investigator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Fraud+Investigator-jobs.html"
+  },
+  {
+    "title": "Sustainability Consultant",
+    "match": 71,
+    "image": "sustainability-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Sustainability+Consultant-jobs.html"
+  },
+  {
+    "title": "Nonprofit Manager",
+    "match": 73,
+    "image": "nonprofit-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Nonprofit+Manager-jobs.html"
+  },
+  {
+    "title": "Business Lecturer",
+    "match": 75,
+    "image": "business-lecturer.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Business+Lecturer-jobs.html"
+  },
+  {
+    "title": "Econ Analyst",
+    "match": 85,
+    "image": "econ-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Econ+Analyst-jobs.html"
+  },
+  {
+    "title": "Process Consultant",
+    "match": 83,
+    "image": "process-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Process+Consultant-jobs.html"
+  },
+  {
+    "title": "Franchise Manager",
+    "match": 80,
+    "image": "franchise-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Franchise+Manager-jobs.html"
+  },
+  {
+    "title": "Business Research Analyst",
+    "match": 85,
+    "image": "business-research-analyst.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Business+Research+Analyst-jobs.html"
+  },
+  {
+    "title": "Workplace Strategist",
+    "match": 64,
+    "image": "workplace-strategist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Workplace+Strategist-jobs.html"
+  },
+  {
+    "title": "Trade Show Coordinator",
+    "match": 69,
+    "image": "trade-show-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Trade+Show+Coordinator-jobs.html"
+  },
+  {
+    "title": "CSR Manager",
+    "match": 62,
+    "image": "csr-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-CSR+Manager-jobs.html"
+  },
+  {
+    "title": "Policy Advisor",
+    "match": 83,
+    "image": "policy-advisor.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Policy+Advisor-jobs.html"
+  },
+  {
+    "title": "Public Affairs Specialist",
+    "match": 86,
+    "image": "public-affairs-specialist.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Public+Affairs+Specialist-jobs.html"
+  },
+  {
+    "title": "Partnership Manager",
+    "match": 78,
+    "image": "partnership-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Partnership+Manager-jobs.html"
+  },
+  {
+    "title": "Bid Manager",
+    "match": 89,
+    "image": "bid-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Bid+Manager-jobs.html"
+  },
+  {
+    "title": "Business Journalist",
+    "match": 85,
+    "image": "business-journalist.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Business+Journalist-jobs.html"
+  },
+  {
+    "title": "Data Governance Specialist",
+    "match": 80,
+    "image": "data-governance-specialist.jpg",
+    "outlook": 5,
+    "link": "https://www.indeed.com/q-Data+Governance+Specialist-jobs.html"
+  },
+  {
+    "title": "Business Ethics Consultant",
+    "match": 74,
+    "image": "business-ethics-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Business+Ethics+Consultant-jobs.html"
+  },
+  {
+    "title": "Fundraising Manager",
+    "match": 89,
+    "image": "fundraising-manager.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Fundraising+Manager-jobs.html"
+  },
+  {
+    "title": "Community Engagement Coordinator",
+    "match": 62,
+    "image": "community-engagement-coordinator.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Community+Engagement+Coordinator-jobs.html"
+  },
+  {
+    "title": "Business Systems Consultant",
+    "match": 73,
+    "image": "business-systems-consultant.jpg",
+    "outlook": 4,
+    "link": "https://www.indeed.com/q-Business+Systems+Consultant-jobs.html"
+  },
+  {
+    "title": "Circular Economy Lead",
+    "match": 84,
+    "image": "circular-economy-lead.jpg",
+    "outlook": 3,
+    "link": "https://www.indeed.com/q-Circular+Economy+Lead-jobs.html"
+  }
+]

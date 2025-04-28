@@ -23,6 +23,30 @@ onAuthStateChanged(auth, (user) => {
 });
 
 document.addEventListener("DOMContentLoaded", () => {
+    // ✅ Set greeting based on time of day
+function updateGreeting() {
+    const greetingElement = document.querySelector(".greeting");
+    const now = new Date();
+    const hour = now.getHours();
+
+    let greetingText = "Good Loading...";
+
+    if (hour >= 5 && hour < 12) {
+        greetingText = "Good Morning,";
+    } else if (hour >= 12 && hour < 17) {
+        greetingText = "Good Afternoon,";
+    } else if (hour >= 17 && hour < 21) {
+        greetingText = "Good Evening,";
+    } else {
+        greetingText = "Good Night,";
+    }
+
+    if (greetingElement) {
+        greetingElement.textContent = greetingText;
+    }
+}
+
+updateGreeting();
     const popup = document.getElementById("rating-popup");
     if (popup) popup.style.display = "none"; // Ensure popup is hidden initially
 
@@ -43,6 +67,8 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
+
+    
 
     const deleteListBtn = document.getElementById("delete-list-btn");
 const listMenu = document.getElementById("list-menu");

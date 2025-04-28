@@ -1,6 +1,6 @@
 [{
   "title": "General Manager",
-  "match": 96,
+  "match": 90,
   "image": "general-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-General+Manager-jobs.html"
@@ -42,7 +42,7 @@
 },
 {
   "title": "Strategy Consultant",
-  "match": 98,
+  "match": 71,
   "image": "strategy-consultant.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Strategy+Consultant-jobs.html"
@@ -119,7 +119,7 @@
 },
 {
   "title": "Customer Success Manager",
-  "match": 97,
+  "match": 87,
   "image": "customer-success-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Customer+Success+Manager-jobs.html"
@@ -294,7 +294,7 @@
 },
 {
   "title": "Tax Specialist",
-  "match": 98,
+  "match": 68,
   "image": "tax-specialist.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Tax+Specialist-jobs.html"
@@ -336,7 +336,7 @@
 },
 {
   "title": "Stockbroker",
-  "match": 86,
+  "match": 80,
   "image": "stockbroker.jpg",
   "outlook": 3,
   "link": "https://www.indeed.com/q-Stockbroker-jobs.html"
@@ -371,7 +371,7 @@
 },
 {
   "title": "Actuary",
-  "match": 87,
+  "match": 80,
   "image": "actuary.jpg",
   "outlook": 3,
   "link": "https://www.indeed.com/q-Actuary-jobs.html"
@@ -469,7 +469,7 @@
 },
 {
   "title": "Tech Founder",
-  "match": 97,
+  "match": 90,
   "image": "tech-founder.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Tech+Founder-jobs.html"
@@ -504,7 +504,7 @@
 },
 {
   "title": "Incubator Manager",
-  "match": 99,
+  "match": 89,
   "image": "incubator-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Incubator+Manager-jobs.html"
@@ -700,14 +700,14 @@
 },
 {
   "title": "Data Analyst",
-  "match": 96,
+  "match": 60,
   "image": "data-analyst.jpg",
   "outlook": 5,
   "link": "https://www.indeed.com/q-Data+Analyst-jobs.html"
 },
 {
   "title": "Data Scientist",
-  "match": 99,
+  "match": 50,
   "image": "data-scientist.jpg",
   "outlook": 5,
   "link": "https://www.indeed.com/q-Data+Scientist-jobs.html"
@@ -721,7 +721,7 @@
 },
 {
   "title": "IT Project Manager",
-  "match": 94,
+  "match": 40,
   "image": "it-project-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-IT+Project+Manager-jobs.html"
@@ -945,7 +945,7 @@
 },
 {
   "title": "HR Ops Specialist",
-  "match": 98,
+  "match": 59,
   "image": "hr-ops-specialist.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-HR+Ops+Specialist-jobs.html"
@@ -1071,7 +1071,7 @@
 },
 {
   "title": "B2B Specialist",
-  "match": 98,
+  "match": 93,
   "image": "b2b-specialist.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-B2B+Specialist-jobs.html"
@@ -1211,7 +1211,7 @@
 },
 {
   "title": "M&A Analyst",
-  "match": 98,
+  "match": 92,
   "image": "m&a-analyst.jpg",
   "outlook": 5,
   "link": "https://www.indeed.com/q-M%26A+Analyst-jobs.html"
@@ -1274,7 +1274,7 @@
 },
 {
   "title": "Franchise Manager",
-  "match": 96,
+  "match": 90,
   "image": "franchise-manager.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Franchise+Manager-jobs.html"
@@ -1351,7 +1351,7 @@
 },
 {
   "title": "Business Ethics Consultant",
-  "match": 98,
+  "match": 84,
   "image": "business-ethics-consultant.jpg",
   "outlook": 4,
   "link": "https://www.indeed.com/q-Business+Ethics+Consultant-jobs.html"
