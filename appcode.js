@@ -292,7 +292,14 @@ if (deleteListBtn) {
         const stars = document.querySelectorAll(".star");
         const closeButton = document.getElementById("close-popup");
 
-        taskMessage.textContent = `How much did you enjoy completing "${taskName}"?`;
+        const messages = [
+            `How much did you enjoy the problem solving style of "${taskName}"?`,
+            `How intrinsically motivated did you feel to complete "${taskName}"?`,
+            `How did completing "${taskName}" align with your values?`
+          ];
+          
+          const randomIndex = Math.floor(Math.random() * messages.length);
+          taskMessage.textContent = messages[randomIndex];
         popup.style.display = "flex";
         stars.forEach(star => star.classList.remove("active"));
 
